@@ -29,7 +29,8 @@ Follow these steps to set up and run the project locally:
 
 ```bash
 git clone https://github.com/paradox974333/djangoweatherapp.git
-cd djangoweatherapp
+cd weather_project
+
 ```
 
 ### 2️⃣ Set Up a Virtual Environment

@@ -68,6 +68,8 @@ Since this project does not include a `requirements.txt` file, you'll need to in
 ```bash
 # Install Django
 pip install django
+pip install requests
+
 ```
 
 You may need additional dependencies in the future, depending on the project's updates, but for now, Django is the only required package.

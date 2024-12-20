@@ -124,7 +124,7 @@ See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by **[paradox974333](https://github.com/paradox974333)**.  
+Developed with ❤️ by **[MANOJ L](https://github.com/paradox974333)**.  
 
 ---
 

@@ -38,6 +38,9 @@ First, you need to clone the project repository to your local machine. Open your
 git clone https://github.com/paradox974333/djangoweatherapp.git
 
 # Navigate into the project directory
+first do:
+cd djangoweatherapp
+then do:
 cd weather_project
 ```
 
